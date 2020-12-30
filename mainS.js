@@ -21,7 +21,7 @@ var time;
 var totalTime = 2.0;
 
 //blurAttenuation
-var a = 10.0;
+var a = 2.0;
 //blurRadius
 var b = 15.0;
 var keepRendering = false;
