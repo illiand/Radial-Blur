@@ -1,3 +1,6 @@
+effect website:
+https://illiand.github.io/Radial-Blur/mainS.html
+
 control:
 w: moveforward
 s: moveback
