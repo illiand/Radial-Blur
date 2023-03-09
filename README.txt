@@ -19,6 +19,7 @@ o: reset the camera
 3/4: increase/decrease blur radius
 Keypad(without open NumLock): 2, 4-9 : move blur center world position
 
+DEMO EXAMPLE:
 g: set the hammer
 G: start the hammer
 l: remove the hammer
