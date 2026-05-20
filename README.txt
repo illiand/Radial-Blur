@@ -1,4 +1,22 @@
-effect website:
+# 3D Radial Blur Demo
+
+![demo](demo.gif)
+
+A real-time radial blur / post-processing effect implemented with Three.js and WebGL.
+
+## Features
+- Radial blur post-processing effect
+- Adjustable blur intensity
+- Real-time rendering in browser
+- Shader-based screen-space sampling
+
+## Technologies
+- Three.js
+- WebGL
+- GLSL
+- JavaScript
+
+## Demo
 https://illiand.github.io/Radial-Blur/mainS.html
 
 control:
